@@ -29,8 +29,9 @@ body{
     .alinhamentodir{
         display: flex;
         flex-direction: column;
+        margin-left: 600px;
         
     }
     .alinhamentoesquerda{
-        
+        display: flex;
     }
